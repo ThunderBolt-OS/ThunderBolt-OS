@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Growing Community**
 
-- 📝 I regularly write articles on [https://thunderbolt-os.hashnode.dev/](https://thunderbolt-os.hashnode.dev/)
+<!-- - 📝 I regularly write articles on [https://thunderbolt-os.hashnode.dev/](https://thunderbolt-os.hashnode.dev/) -->
 
 - 💬 Ask me about **Frontend Backend and little bit of Quantum Physics and Astrophysics**
 
