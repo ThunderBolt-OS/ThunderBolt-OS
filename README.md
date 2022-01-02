@@ -48,7 +48,8 @@
             Web Developer @TEDx Somaiya Vidyavihar
         </li>                     
         <li style="font-size:18px">
-            Writing Blogs on <a src="https://hashnode.com/@ThunderBolt" target="_blank">Hashnode</a> <h6>lastest one comming soon</h6>
+            Writing Blogs on <a src="https://hashnode.com/@ThunderBolt" target="_blank">Hashnode</a> 
+            -lastest one comming soon-
         </li> 
         <li style="font-size:18px">
             Backend Intern @K J SOMAIYA COLLEGE OF ENGINEERING
