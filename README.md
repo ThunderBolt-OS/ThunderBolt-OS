@@ -43,13 +43,13 @@
         <br>
         <br>
         <br>
-        <h2>Things I do<h2> 
+        <p>Things I do<p> 
         <li style="font-size:18px">
             Web Developer @TEDx Somaiya Vidyavihar
         </li>                     
         <li style="font-size:18px">
-            Writing Blogs on <a src="https://hashnode.com/@ThunderBolt" target="_blank">Hashnode</a> 
-            -lastest one comming soon-
+            Writing Blogs on @<a href="https://hashnode.com/@ThunderBolt" target="_blank">Hashnode</a>
+            <p>latest one comming up<p>
         </li> 
         <li style="font-size:18px">
             Backend Intern @K J SOMAIYA COLLEGE OF ENGINEERING
@@ -62,7 +62,7 @@
 
 <br>
 
-----
+
 <!-- ON THE WEB -->
 <br>
 <h2 align="left">On the Web:🌐</h2> 
@@ -75,8 +75,7 @@
 
 <br>
 
-----
-<br>
+
 <div align="left"> <h2>Technologies Worked With:👨‍💻</h2> 
 <br> 
 <div align="left">  
@@ -104,7 +103,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
 </div>
 
-----
 <br>
 
 ## My Stats: 📊
@@ -119,6 +117,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThunderBolt-OS&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[2021]&theme=cobalt&background=193549)](https://git.io/streak-stats)
 
 <br>
+    
 </div>
 
 ### I Love Coffee: 🍵
