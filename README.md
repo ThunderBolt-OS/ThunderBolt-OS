@@ -50,8 +50,7 @@
         <li style="font-size:18px">
             Writing Blogs on @<a href="https://dev.to/thunderbolt" target="_blank">DEV</a>
             <p>latest one comming up<p>
-        </li> 
-       
+        </li>        
         <li style="font-size:18px">
             Sooner newletter comming up @<a href="https://sohambhoir.substack.com/" target="_blank">Substack</a>
         </li>
