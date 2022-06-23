@@ -45,7 +45,7 @@
         <br>
         <p>Things I do<p> 
         <li style="font-size:18px">
-            Web Developer @TEDx Somaiya Vidyavihar
+            Web Developer @<a href="https://tedxsomaiya.herokuapp.com" target="_blank">TEDx Somaiya Vidyavihar</a>
         </li>                     
         <li style="font-size:18px">
             Writing Blogs on @<a href="https://dev.to/thunderbolt" target="_blank">DEV</a>
